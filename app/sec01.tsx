@@ -1,6 +1,6 @@
 import Image from "next/image";
-import i from "./assets/i.png";
-import l from "./assets/l.png";
+import i from "/assets/i.png";
+import l from "/assets/l.png";
 
 const Sec01 = () => {
   return (

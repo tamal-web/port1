@@ -1,9 +1,9 @@
 import Sec01 from "./sec01";
-import t from "./assets/t.png";
+import t from "/assets/t.png";
 import Image from "next/image";
 import "./style.css";
-import wave from "./assets/wave.gif";
-import arrow from "./assets/arrow.png";
+import wave from "/assets/wave.gif";
+import arrow from "/assets/arrow.png";
 
 const hero = () => {
   return (
