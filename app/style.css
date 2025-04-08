@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Courier";
+  src: url("@/app/fonts/cpr.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Italiana";
+  src: url("@/app/fonts/ir.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Jim";
+  src: url("/fonts/jim.ttf") format("truetype");
+}
